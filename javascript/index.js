@@ -15,6 +15,7 @@ const splitsElement = document.getElementById('splits');
 
 function printTime() {
   // ... your code goes here
+  
 }
 
 function printMinutes() {
